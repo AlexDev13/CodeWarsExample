@@ -1,6 +1,5 @@
-package main
+package codewars
 
- import "fmt"
 
 func Hero(bullets, dragons int) bool {
 	if (bullets-(dragons*2)) < 0 {
@@ -9,6 +8,3 @@ func Hero(bullets, dragons int) bool {
 	return true
 }
    
-func main(){
-fmt.Println(Hero(100,40))
-}
