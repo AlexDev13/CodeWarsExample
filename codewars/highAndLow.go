@@ -34,7 +34,7 @@ func HighAndLow(s string) string	{
 	
 		sample := fmt.Sprint(max,min)
 	// fmt.Println(reflect.TypeOf(sample))
-
+	fmt.Println(sample)
 		return sample
 		
 }
