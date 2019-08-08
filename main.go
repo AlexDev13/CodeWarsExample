@@ -11,5 +11,6 @@ func main(){
 	// arr := []string{"Man","I","feel","just","like","a","rockstar"}
 	// codewars.PartList(arr)
 	//	codewars.SumEvenFibonacci(111111)
-	codewars.DNAtoRNA("GCTAGCTATTAAC")
+	// codewars.DNAtoRNA("GCTAGCTATTAAC")
+	codewars.RepeatStr(5,"Hi")
 }
