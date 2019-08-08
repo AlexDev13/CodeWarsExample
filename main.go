@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./codewars"
+	."./codewars"
 	// "fmt"
 )
 
@@ -12,5 +12,6 @@ func main(){
 	// codewars.PartList(arr)
 	//	codewars.SumEvenFibonacci(111111)
 	// codewars.DNAtoRNA("GCTAGCTATTAAC")
-	codewars.RepeatStr(5,"Hi")
+	//codewars.RepeatStr(5,"Hi")
+	MonkeyCount(5)
 }
