@@ -14,5 +14,7 @@ func main(){
 	// codewars.DNAtoRNA("GCTAGCTATTAAC")
 	//codewars.RepeatStr(5,"Hi")
 	// MonkeyCount(5)
-		CountSheep(5)
+	// CountSheep(5)
+	// Century(30001)
+	Solution("World!")		
 }
