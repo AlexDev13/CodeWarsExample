@@ -13,5 +13,6 @@ func main(){
 	//	codewars.SumEvenFibonacci(111111)
 	// codewars.DNAtoRNA("GCTAGCTATTAAC")
 	//codewars.RepeatStr(5,"Hi")
-	MonkeyCount(5)
+	// MonkeyCount(5)
+		CountSheep(5)
 }
